@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: (https://github.com/clydehenry3/Social-Links/tree/main)
+- Live Site URL: https://social-links-gilt-seven.vercel.app/
 
 ## My process
 
